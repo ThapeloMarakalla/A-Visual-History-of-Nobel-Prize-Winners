@@ -1,0 +1,2 @@
+A Visual History of Nobel Prize Winners (499)
+For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/tech-department/master/content/projects/data-science-specific/nobel-prize-winners/_index.md
